@@ -14,7 +14,7 @@ The repository contains materials related to the research. Here you can find the
 
 - [Focus_group_starting_point.pdf](Focus_group_starting_point.pdf) -> This document was sent to the recruited participants before the focus group was conducted to familiarize them with what was going to be discussed. 
 - [Informed_consent.pdf](Informed_consent.pdf) -> basic information to the survey participants about the research. This document contains basic information about the experiment (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
-- survey questionnaire (based on Kano method) -> the questionnaire we used in the research. 
+- [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> the questionnaire we used in the research. 
 
 **Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
 
