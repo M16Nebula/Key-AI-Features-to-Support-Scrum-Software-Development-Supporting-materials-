@@ -2,7 +2,8 @@
  
 ### This repository contains supporting materials used in our research. Note that a more detailed description of the research methodology and approach is included in the research paper. 
 
-The research is published in [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) Journal (ISSN 1873-6025)[^1]. 
+> [!NOTE]
+> The research is published in [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) Journal (ISSN 1873-6025)[^1]. 
 
 Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.
 
