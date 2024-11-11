@@ -21,11 +21,10 @@ The repository contains materials related to the research. Here you can find the
 👉**Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
 
 
-***NOTES:***
-> [!NOTE]
-> [^1]: The published article is part of the special issue "Generative AI in Software Engineering".
-> [^2]: This is not a complete list, but only to help the participants in the focus group to more easily imagine and express their wishes for what AI functions would help them in managing projects in the field of software development.
-> [^3]: It is an exported document (we conducted the survey on the [1ka.si](https://1ka.arnes.si/index.php?lang_id=2) platform).
+***💡NOTES:***
+[^1]: The published article is part of the special issue "Generative AI in Software Engineering".
+[^2]: This is not a complete list, but only to help the participants in the focus group to more easily imagine and express their wishes for what AI functions would help them in managing projects in the field of software development.
+[^3]: It is an exported document (we conducted the survey on the [1ka.si](https://1ka.arnes.si/index.php?lang_id=2) platform).
 
 
 
