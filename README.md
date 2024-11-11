@@ -16,15 +16,15 @@ The repository contains materials related to the research. Here you can find the
 
 - [Focus_group_starting_point.pdf](Focus_group_starting_point.pdf) -> This document was sent to the recruited focus group participants (industry experts) before the focus group was conducted to familiarize them with what was going to be discussed[^2]. 
 - [Informed_consent.pdf](Informed_consent.pdf) -> basic information to the survey participants (experienced Scrum practitioners) about the research. This document contains all the basic information about the research (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
-- [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> the questionnaire we used in the research for survey participants. 
+- [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> the questionnaire we used in the research for survey participants[^3]. 
 
 **Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
 
 
-***NOTES***
+***NOTES:***
 [^1]: The published article is part of the special issue "Generative AI in Software Engineering".
-[^2]: This is not a complete list, but only to help the participants in the focus group to more easily imagine and express their wishes for what Ai functions would help them in managing projects in the field of software development.
-[^3]:
+[^2]: This is not a complete list, but only to help the participants in the focus group to more easily imagine and express their wishes for what AI functions would help them in managing projects in the field of software development.
+[^3]: 
 
 
 
