@@ -4,8 +4,7 @@
 
 > [!NOTE]
 > The research is published in [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) Journal (ISSN 1873-6025)[^1]. 
-
-Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.
+> Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.
 
 The repository consists of the following files/folders:
 
