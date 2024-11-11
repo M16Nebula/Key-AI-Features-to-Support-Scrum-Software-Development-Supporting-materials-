@@ -2,7 +2,7 @@
  
 ### This repository contains supporting materials used in our research. Note that a more detailed description of the research methodology and approach is included in the research paper. 
 
-The research is published in [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) Journal (ISSN 1873-6025). The published article is part of the special issue "Generative AI in Software Engineering".
+The research is published in [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) Journal (ISSN 1873-6025) [^1]. 
 
 Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.
 
@@ -19,6 +19,12 @@ The repository contains materials related to the research. Here you can find the
 - [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> the questionnaire we used in the research for survey participants. 
 
 **Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
+
+
+***NOTES***
+[^1] The published article is part of the special issue "Generative AI in Software Engineering".
+[^2]
+[^3]
 
 
 
