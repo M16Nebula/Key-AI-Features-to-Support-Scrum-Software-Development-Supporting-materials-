@@ -19,7 +19,7 @@ The repository contains materials related to the research. Here you can find the
 - [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> the questionnaire we used in the research for survey participants[^3].
 - [TBD] -> Document with a more detailed description of the focus group process.
 - [TBD] -> Dataset collected as part of our research.
-   -  [Description of variables] -> Dataset collected as part of our research
+   -  [Description of variables] -> Description of variables relating to the Dataset collected as part of our research.
 
 👉**Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
 
