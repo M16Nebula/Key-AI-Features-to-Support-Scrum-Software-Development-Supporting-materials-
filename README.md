@@ -17,9 +17,8 @@ The repository contains materials related to the research. Here you can find the
 - [Focus_group_starting_point.pdf](Focus_group_starting_point.pdf) -> This document was sent to the recruited focus group participants (industry experts) before the focus group was conducted to familiarize them with what was going to be discussed[^2]. 
 - [Informed_consent.pdf](Informed_consent.pdf) -> basic information to the survey participants (experienced Scrum practitioners) about the research. This document contains all the basic information about the research (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
 - [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> the questionnaire we used in the research for survey participants[^3].
-- [TBD] -> Document with a more detailed description of the focus group process.
-- [TBD] -> Dataset collected as part of our research.
-   -  [Description of variables] -> Description of variables relating to the Dataset collected as part of our research.
+- [Focus_group_description.pdf] -> Document with a more detailed description of the focus group process. Here you can find all the information about how we conducted the focus group. This ensures the transparency and reproducibility of our approach.
+- [Data.xlsx] -> Dataset collected as part of our research. It also includes a description of variables. 
 
 👉**Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
 
