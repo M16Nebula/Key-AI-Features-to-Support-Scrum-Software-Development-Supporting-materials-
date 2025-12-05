@@ -13,7 +13,7 @@
 The repository consists of the following files/folders:
 
 👉 Readme file 📜
-Basic information about the repository. Here, the materials that the participants (industry experts and experienced Scrum practitioners) used in the research are described.
+Basic information about the repository. Here, the materials used by the participants (industry experts and experienced Scrum practitioners) in the research are described.
 
 👉 Materials 📃
 The repository contains materials related to the research. Here you can find the following: 
