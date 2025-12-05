@@ -32,7 +32,7 @@ The repository contains materials related to the research. Here you can find the
 ***💡NOTES:***
 [^1]: The published article is part of the "TO BE DONE".
 [^2]: This is not a complete list, but only to help the participants in the focus group to more easily imagine and express their wishes for what AI functions would help them in managing projects in the field of software development.
-[^3]: It is an exported document (we conducted the survey on the [1ka.si](https://1ka.arnes.si/index.php?lang_id=2) platform). ![1KA](https://1ka.arnes.si/)
+[^3]: It is an exported document (we conducted the survey on the [1ka.si](https://1ka.arnes.si/index.php?lang_id=2) platform). ![1KA](https://1ka.arnes.si//public/img/logo/1ka_logo_arnes.svg)
 [^4]: A comprehensive table containing full descriptions of all acronyms has been added to the repository to facilitate ease of reference.
 [^5]: A comprehensive table containing full descriptions of all acronyms has been added to the repository to facilitate ease of reference.
 
