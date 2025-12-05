@@ -6,6 +6,10 @@
 > The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^1]. 
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.
 
+> [!NOTE] 
+> This repository includes the complete survey dataset and detailed focus group documentation to ensure transparency and reproducibility. 
+> If you have any questions, please contact the author of the study at the email address provided in the published paper: 🔴TO BE DONE WHEN PUBLISHED🔴.
+
 The repository consists of the following files/folders:
 
 👉 Readme file 📜
