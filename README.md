@@ -4,7 +4,7 @@
 
 > [!TIP]
 > The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^1]. 
-> Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.
+> Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.\\
 > Authors: Damjan Fujs [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-6357-8569), Petar Kochovski [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0003-4345-2069), Vlado Stankovski [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0001-9547-787X) and Damjan Vavpotič [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-8039-7110)
 
 
