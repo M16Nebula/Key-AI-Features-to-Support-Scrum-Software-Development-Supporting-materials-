@@ -27,12 +27,12 @@ Damjan Vavpotič
 > 👉 Materials 📃
 > The repository contains materials related to the research. Here you can find the following: 
 > - [Focus_group_starting_point.pdf](Focus_group_starting_point.pdf) -> This document was sent to the recruited focus group participants (industry experts) before the focus group was conducted to familiarize them with what was going to be discussed [^2].
-- [Informed_consent.pdf](Informed_consent.pdf) -> Basic information to the survey participants (experienced Scrum practitioners) about the research. This document contains all the basic information about the research (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
-- [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> The questionnaire we used in the research for survey participants [^3].
-- [Focus_group_description.pdf](Focus_group_description.pdf) -> Document with a more detailed description of the focus group process. Here you can find all the information about how we conducted the focus group. This ensures the transparency and reproducibility of our approach.
-- [Data.xlsx](https://github.com/M16Nebula/Key-AI-Features-to-Support-Scrum-Software-Development-Supporting-materials-/blob/main/Data.xlsx) -> Dataset collected as part of our research. It also includes a description of variables (codebook). 
-- [Appendix_aggregated_table_team_size.pdf](Appendix_aggregated_table_team_size.pdf) -> Full descriptions of SAISFs regarding prioritization of SAISFs according to Scrum team size. Note that only the abbreviations are presented in the article [^4].
-- [Appendix_aggregated_table_Scrum_roles.pdf](Appendix_aggregated_table_Scrum_roles.pdf) -> Full descriptions of SAISFs regarding prioritization of SAISFs according to Scrum roles. Note that only the abbreviations are presented in the article [^5].
+> - [Informed_consent.pdf](Informed_consent.pdf) -> Basic information to the survey participants (experienced Scrum practitioners) about the research. This document contains all the basic information about the research (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
+> - [Survey_questionnaire.pdf](Survey_questionnaire.pdf) (based on Kano method) -> The questionnaire we used in the research for survey participants [^3].
+> - [Focus_group_description.pdf](Focus_group_description.pdf) -> Document with a more detailed description of the focus group process. Here you can find all the information about how we conducted the focus group. This ensures the transparency and reproducibility of our approach.
+> - [Data.xlsx](https://github.com/M16Nebula/Key-AI-Features-to-Support-Scrum-Software-Development-Supporting-materials-/blob/main/Data.xlsx) -> Dataset collected as part of our research. It also includes a description of variables (codebook). 
+> - [Appendix_aggregated_table_team_size.pdf](Appendix_aggregated_table_team_size.pdf) -> Full descriptions of SAISFs regarding prioritization of SAISFs according to Scrum team size. Note that only the abbreviations are presented in the article [^4].
+> - [Appendix_aggregated_table_Scrum_roles.pdf](Appendix_aggregated_table_Scrum_roles.pdf) -> Full descriptions of SAISFs regarding prioritization of SAISFs according to Scrum roles. Note that only the abbreviations are presented in the article [^5].
 
 👉**Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
 
