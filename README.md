@@ -7,7 +7,7 @@
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
 > Authors: 
 Damjan Fujs 
-[<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-6357-8569) [<img src="https://scholar.google.com/favicon.ico" width="16" height="16">](https://scholar.google.com/citations?user=hZeD_hkAAAAJ&hl=en&oi=ao), 
+([<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-6357-8569) [<img src="https://scholar.google.com/favicon.ico" width="16" height="16">](https://scholar.google.com/citations?user=hZeD_hkAAAAJ&hl=en&oi=ao)), 
 Petar Kochovski 
 [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0003-4345-2069)[<img src="https://scholar.google.com/favicon.ico" width="16" height="16">](https://scholar.google.com/citations?user=5dF0CpYAAAAJ&hl=en&oi=ao), 
 Vlado Stankovski 
