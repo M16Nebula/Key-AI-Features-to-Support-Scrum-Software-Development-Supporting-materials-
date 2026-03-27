@@ -24,7 +24,7 @@ Damjan Vavpotič
 > The repository consists of the following files/folders:<br>
 > 👉 Readme file 📜<br>
 > Basic information about the repository. Here, the materials used by the participants (industry experts and experienced Scrum practitioners) in the research are described.<br>
-> 👉 Materials 📃
+> 👉 Materials 📃<br>
 > The repository contains materials related to the research. Here you can find the following: 
 > - [Focus_group_starting_point.pdf](Focus_group_starting_point.pdf) -> This document was sent to the recruited focus group participants (industry experts) before the focus group was conducted to familiarize them with what was going to be discussed [^2].
 > - [Informed_consent.pdf](Informed_consent.pdf) -> Basic information to the survey participants (experienced Scrum practitioners) about the research. This document contains all the basic information about the research (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
