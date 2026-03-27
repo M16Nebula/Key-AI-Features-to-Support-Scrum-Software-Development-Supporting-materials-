@@ -21,7 +21,7 @@ Damjan Vavpotič
 > If you have any questions, please contact the author of the study at the email address provided in the published paper: 🔴TO BE DONE WHEN PUBLISHED🔴.
 
 > [!NOTE] 
-> The repository consists of the following files/folders:
+> The repository consists of the following files/folders:<br>
 > 👉 Readme file 📜<br>
 > Basic information about the repository. Here, the materials used by the participants (industry experts and experienced Scrum practitioners) in the research are described.<br>
 > 👉 Materials 📃
