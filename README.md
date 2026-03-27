@@ -22,8 +22,7 @@ Damjan Vavpotič
 
 > [!NOTE] 
 > The repository consists of the following files/folders:
-
-> 👉 Readme file 📜
+> 👉 Readme file 📜<br>
 > Basic information about the repository. Here, the materials used by the participants (industry experts and experienced Scrum practitioners) in the research are described.
 > 👉 Materials 📃
 > The repository contains materials related to the research. Here you can find the following: 
