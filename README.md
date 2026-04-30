@@ -9,8 +9,6 @@
 
 > Authors: [Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs), [Petar Kochovski](https://fri.uni-lj.si/en/about-faculty/employees/petar-kochovski), [Vlado Stankovski](https://fri.uni-lj.si/en/about-faculty/employees/vlado-stankovski) and [Damjan Vavpotič](https://fri.uni-lj.si/en/about-faculty/employees/damjan-vavpotic)
 
-> Authors: [Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs) <a href="https://scholar.google.com/citations?user=hZeD_hkAAAAJ&hl=en&oi=ao"><img src="https://scholar.google.com/favicon.ico" width="16" height="16"></a>, [Petar Kochovski](https://fri.uni-lj.si/en/about-faculty/employees/petar-kochovski) <a href="https://scholar.google.com"><img src="https://scholar.google.com/favicon.ico" width="16" height="16"></a>, [Vlado Stankovski](https://fri.uni-lj.si/en/about-faculty/employees/vlado-stankovski) <a href="https://scholar.google.com"><img src="https://scholar.google.com/favicon.ico" width="16" height="16"></a> and [Damjan Vavpotič](https://fri.uni-lj.si/en/about-faculty/employees/damjan-vavpotic) <a href="https://scholar.google.com"><img src="https://scholar.google.com/favicon.ico" width="16" height="16"></a>
-
 
 > [!IMPORTANT] 
 > This repository includes the complete survey dataset and detailed focus group documentation to ensure transparency and reproducibility.<br> 
