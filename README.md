@@ -7,7 +7,7 @@
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
 
 
-> Authors: [Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs), [Petar Kochovski](https://fri.uni-lj.si/en/about-faculty/ employees/petar-kochovski), [Vlado Stankovski](https://fri.uni-lj.si/en/about-faculty/employees/vlado-stankovski) and [Damjan Vavpotič](https://fri.uni-lj.si/en/about-faculty/employees/damjan-vavpotic)
+> Authors: [Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs), [Petar Kochovski](https://fri.uni-lj.si/en/about-faculty/employees/petar-kochovski), [Vlado Stankovski](https://fri.uni-lj.si/en/about-faculty/employees/vlado-stankovski) and [Damjan Vavpotič](https://fri.uni-lj.si/en/about-faculty/employees/damjan-vavpotic)
 
 
 > [!IMPORTANT] 
