@@ -7,7 +7,6 @@
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
 > Authors: 
 
-[Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs) [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-6357-8569) [<img src="https://scholar.google.com/favicon.ico" width="16" height="16">](https://scholar.google.com/citations?user=hZeD_hkAAAAJ&hl=en&oi=ao),
 
 [Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs)[<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-6357-8569)[<img src="https://scholar.google.com/favicon.ico" width="16" height="16">](https://scholar.google.com/citations?user=hZeD_hkAAAAJ&hl=en&oi=ao), 
 
