@@ -3,7 +3,7 @@
 ### This repository contains supporting materials used in our research. Note that a more detailed description of the research methodology and approach is included in the research paper. 
 
 > [!TIP]
-> The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^1].<br> 
+> The research is published in [Empirical Software Engineering](https://link.springer.com/journal/10664) Journal (Electronic ISSN 1573-7616, Print ISSN 1382-3256) [^1].<br> 
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
 > Authors: 
 
