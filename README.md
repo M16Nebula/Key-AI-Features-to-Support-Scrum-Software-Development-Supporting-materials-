@@ -9,6 +9,9 @@
 
 > Authors: [Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs), [Petar Kochovski](https://fri.uni-lj.si/en/about-faculty/employees/petar-kochovski), [Vlado Stankovski](https://fri.uni-lj.si/en/about-faculty/employees/vlado-stankovski) and [Damjan Vavpotič](https://fri.uni-lj.si/en/about-faculty/employees/damjan-vavpotic)
 
+> **Participating institutions:**  
+> <a href="https://www.fri.uni-lj.si/"><img src="https://www.fri.uni-lj.si/sites/all/themes/fri_theme/images/FRI_logo_eng.png" height="81"></a> 
+
 
 > [!IMPORTANT] 
 > This repository includes the complete survey dataset and detailed focus group documentation to ensure transparency and reproducibility.<br> 
