@@ -35,11 +35,32 @@
 
 
 <details>
-<summary>Click for citation</summary>
+<summary>Click for citation (APA generated)</summary>
 
 Fujs, D., Kochovski, P., Stankovski, V., & Vavpotič, D. (2026). Key AI features to support scrum software engineering: practitioners’ perspective. Empirical Software Engineering, 31(5). https://doi.org/10.1007/s10664-026-10876-6
 
 </details>
+
+<details>
+<summary>Click for citation (BIBTEX)</summary>
+
+@article{Fujs2026,
+   author = {Damjan Fujs and Petar Kochovski and Vlado Stankovski and Damjan Vavpotič},
+   doi = {10.1007/s10664-026-10876-6},
+   issn = {1382-3256},
+   issue = {5},
+   journal = {Empirical Software Engineering},
+   month = {9},
+   pages = {138},
+   title = {Key AI features to support scrum software engineering: practitioners’ perspective},
+   volume = {31},
+   url = {https://link.springer.com/10.1007/s10664-026-10876-6},
+   year = {2026}
+}
+
+
+</details>
+
 
 
 
