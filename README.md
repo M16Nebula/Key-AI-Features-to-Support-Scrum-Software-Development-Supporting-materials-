@@ -58,7 +58,7 @@ Fujs, D., Kochovski, P., Stankovski, V., & Vavpotič, D. (2026). Key AI features
    url = {https://link.springer.com/10.1007/s10664-026-10876-6},
    year = {2026}
 }
-
+```
 
 </details>
 
