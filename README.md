@@ -4,7 +4,7 @@
 
 > [!TIP]
 > The research is published in [Empirical Software Engineering](https://link.springer.com/journal/10664) Journal (Electronic ISSN 1573-7616, Print ISSN 1382-3256) [^1].<br> 
-> Please check the open-access paper here for more information: [Click here to access the paper](https://link.springer.com/article/10.1007/s10664-026-10876-6)].<br>
+> Please check the open-access paper here for more information: [Click here to access the paper](https://link.springer.com/article/10.1007/s10664-026-10876-6).<br>
 
 
 > Authors: [Damjan Fujs](https://fri.uni-lj.si/en/about-faculty/employees/damjan-fujs), [Petar Kochovski](https://fri.uni-lj.si/en/about-faculty/employees/petar-kochovski), [Vlado Stankovski](https://fri.uni-lj.si/en/about-faculty/employees/vlado-stankovski) and [Damjan Vavpotič](https://fri.uni-lj.si/en/about-faculty/employees/damjan-vavpotic)
