@@ -1,4 +1,4 @@
-# Key AI Features to Support Scrum Software Engineering - Supporting materials used in the research (Replication package)💻 
+# Key AI Features to Support Scrum Software Engineering - Supporting materials used in the research (Replication Package)💻 
  
 ### This repository contains supporting materials used in our research. Note that a more detailed description of the research methodology and approach is included in the research paper. 
 
