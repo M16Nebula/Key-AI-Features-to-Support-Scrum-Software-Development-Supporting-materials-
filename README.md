@@ -44,6 +44,7 @@ Fujs, D., Kochovski, P., Stankovski, V., & Vavpotič, D. (2026). Key AI features
 <details>
 <summary>Click for citation (BIBTEX)</summary>
 
+```bibtex
 @article{Fujs2026,
    author = {Damjan Fujs and Petar Kochovski and Vlado Stankovski and Damjan Vavpotič},
    doi = {10.1007/s10664-026-10876-6},
