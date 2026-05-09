@@ -31,7 +31,16 @@
 > - [Appendix_aggregated_table_team_size.pdf](Appendix_aggregated_table_team_size.pdf) -> Full descriptions of SAISFs regarding prioritization of SAISFs according to Scrum team size. Note that only the abbreviations are presented in the article [^4].
 > - [Appendix_aggregated_table_Scrum_roles.pdf](Appendix_aggregated_table_Scrum_roles.pdf) -> Full descriptions of SAISFs regarding prioritization of SAISFs according to Scrum roles. Note that only the abbreviations are presented in the article [^5].
 
-> 👉**Source**: Fujs, D., Kochovski, P., Stankovski, V., & Vavpotič, D. (2026). Key AI features to support scrum software engineering: practitioners’ perspective. Empirical Software Engineering, 31(5). https://doi.org/10.1007/s10664-026-10876-6
+👉**Source**: Fujs, D., Kochovski, P., Stankovski, V., & Vavpotič, D. (2026). Key AI features to support scrum software engineering: practitioners’ perspective. Empirical Software Engineering, 31(5). https://doi.org/10.1007/s10664-026-10876-6
+
+
+<details>
+<summary>Click for citation</summary>
+
+Fujs, D., Kochovski, P., Stankovski, V., & Vavpotič, D. (2026). Key AI features to support scrum software engineering: practitioners’ perspective. Empirical Software Engineering, 31(5). https://doi.org/10.1007/s10664-026-10876-6
+
+</details>
+
 
 
 ***💡NOTES:***
