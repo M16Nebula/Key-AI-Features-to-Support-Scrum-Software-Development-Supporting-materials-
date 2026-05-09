@@ -15,7 +15,7 @@
 
 > [!IMPORTANT] 
 > This repository includes the complete survey dataset and detailed focus group documentation to ensure transparency and reproducibility.<br> 
-> If you have any questions, please contact the author of the study at the email address provided in the published paper: 🔴TO BE DONE WHEN PUBLISHED🔴.
+> If you have any questions, please contact the author of the study at the email address provided in the published paper: [Click here to access the paper](https://link.springer.com/article/10.1007/s10664-026-10876-6).
 
 > [!NOTE] 
 > The repository consists of the following files/folders:<br>
